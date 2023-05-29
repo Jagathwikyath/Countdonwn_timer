@@ -1,2 +1,2 @@
-# Countdonwn_timer
+# Countdown_timer
 By using tkinder a countdown timer is created in python
